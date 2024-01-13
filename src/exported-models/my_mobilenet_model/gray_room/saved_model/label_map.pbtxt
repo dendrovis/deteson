@@ -1,0 +1,74 @@
+item {
+  id: 1
+  name: 'up arrow'
+}
+
+item {
+  id: 2
+  name: 'down arrow'
+}
+
+item {
+  id: 3
+  name: 'right arrow'
+}
+
+item {
+  id: 4
+  name: 'left arrow'
+}
+
+item {
+  id: 5
+  name: 'Go'
+}
+
+item {
+  id: 6
+  name: 'six'
+}
+
+item {
+  id: 7
+  name: 'seven'
+}
+
+item {
+  id: 8
+  name: 'eight'
+}
+
+item {
+  id: 9
+  name: 'nine'
+}
+
+item {
+  id: 10
+  name: 'zero'
+}
+
+item {
+  id: 11
+  name: 'Alphabet V'
+}
+
+item {
+  id: 12
+  name: 'Alphabet W'
+}
+
+item {
+  id: 13
+  name: 'Alphabet X'
+}
+
+item {
+  id: 14
+  name: 'Alphabet Y'
+}
+
+item {
+  id: 15
+  name: 'Alphabet Z'
+}
